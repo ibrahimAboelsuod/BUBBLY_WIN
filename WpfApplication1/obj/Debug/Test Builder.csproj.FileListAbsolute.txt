@@ -1,0 +1,21 @@
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.exe.config
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.exe.manifest
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.application
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.exe
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.pdb
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\System.Net.Http.dll
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\System.Net.Http.xml
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder_MarkupCompile.cache
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder_MarkupCompile.lref
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.g.resources
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test_Builder.Properties.Resources.resources
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.csproj.GenerateResource.Cache
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.exe.manifest
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.application
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.exe
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.pdb

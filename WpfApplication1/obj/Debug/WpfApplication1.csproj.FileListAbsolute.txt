@@ -1,0 +1,50 @@
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Fathy  😖\Projects\C#\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Fathy  😖\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.exe.config
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.exe
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.pdb
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\System.Net.Http.dll
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\System.Net.Http.xml
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder_MarkupCompile.cache
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder_MarkupCompile.lref
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.g.resources
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test_Builder.Properties.Resources.resources
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.exe
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.pdb
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.exe.manifest
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Test Builder.application
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.exe.manifest
+C:\Users\Ibrahim\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Test Builder.application

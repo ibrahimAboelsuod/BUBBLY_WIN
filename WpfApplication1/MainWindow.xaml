@@ -1,0 +1,51 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Test Builder" Height="590" Width="870" Icon="playstation-circle-icon.ico">
+
+
+    <Grid >
+
+        <Grid x:Name="first" Visibility="Collapsed" >
+            <StackPanel  Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Top"  >
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <Label Content="Name:" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    <TextBox x:Name="testName_txt" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="untitled" VerticalAlignment="Top" Width="120"/>
+
+                    <Label Content="Number of questions :"/>
+                    <TextBox x:Name="numOfQues_txt" Height="22" TextWrapping="Wrap" Width="120" Text="100" />
+                    <Label Content="Number of answers :"/>
+                    <ComboBox Width="50" x:Name="default_answer_num" SelectedIndex="3">
+                        <ComboBoxItem Content="2"/>
+                        <ComboBoxItem Content="3"/>
+                        <ComboBoxItem Content="4"/>
+                        <ComboBoxItem Content="5"/>
+                    </ComboBox>
+                    <Button  x:Name="preview_but" Content="Create" Margin="10,0,0,0" Width="90" Click="preview_but_Click"/>
+
+                </StackPanel>
+
+            </StackPanel>
+        </Grid>
+
+        <Grid x:Name="second" Visibility="Collapsed">
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="0,0,0,31">
+
+                <StackPanel  x:Name="questions_panel" ScrollViewer.VerticalScrollBarVisibility="Auto" >
+
+
+
+                </StackPanel>
+
+            </ScrollViewer>
+            <Grid x:Name="saveBut_grid" Height="31" VerticalAlignment="Bottom" />
+
+        </Grid>
+    </Grid>
+
+</Window>
