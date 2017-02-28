@@ -1,0 +1,21 @@
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Test Corrector.exe.config
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\TestCorretor.csprojResolveAssemblyReference.cache
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\CT_3.Form1.resources
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\TestCorrector.Properties.Resources.resources
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\TestCorretor.csproj.GenerateResource.Cache
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Test Corrector.exe
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Test Corrector.pdb
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.dll
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.Imaging.dll
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.Math.dll
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.xml
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.Imaging.xml
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.Math.xml
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\Test Corrector.exe
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\Test Corrector.pdb
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Test Corrector.exe.manifest
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Test Corrector.application
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\Test Corrector.exe.manifest
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\Test Corrector.application

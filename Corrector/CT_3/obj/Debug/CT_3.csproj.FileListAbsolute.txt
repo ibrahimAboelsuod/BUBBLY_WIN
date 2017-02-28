@@ -1,0 +1,17 @@
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\CT_3.exe.config
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\CT_3.exe
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\CT_3.pdb
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\CT_3.csprojResolveAssemblyReference.cache
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\CT_3.Form1.resources
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\CT_3.Properties.Resources.resources
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\CT_3.csproj.GenerateResource.Cache
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\CT_3.exe
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\obj\Debug\CT_3.pdb
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.dll
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.Imaging.dll
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.Math.dll
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.xml
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.Imaging.xml
+c:\users\ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\AForge.Math.xml
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\CT_3\CT_3\bin\Debug\Newtonsoft.Json.xml
